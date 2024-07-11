@@ -1,0 +1,2 @@
+;; Generated package description from url-scgi.el  -*- no-byte-compile: t -*-
+(define-package "url-scgi" "0.9.0.20231222.161107" "SCGI support for url.el" '((emacs "24.3")) :commit "0f20f8b59011471523b650cf1a3478a04362083d" :authors '(("Stefan Kangas" . "stefankangas@gmail.com")) :maintainer '("Stefan Kangas" . "stefankangas@gmail.com") :keywords '("comm" "data" "processes" "scgi") :url "https://github.com/skangas/url-scgi/")
